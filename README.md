@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Divyanshu Tiwari
-- 👀 I’m interested in HCI research centered around the design and development of novel interfaces and interaction techniques for a variety of purposes 
+### Hi there 👋
+I am a Frontend Engineer 👨‍💻. Studied architecture at IIT Roorkee and did research in HCI at UCSD. My passion lies in both questioning the status quo and actively contributing to the next generation of interface design.
 
-<!---
-divyanshuTiwari33/divyanshuTiwari33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently working on ReactJS, Tailwind, Typescript, NextJS
+- 💬 Read out about my [projects]([http://iashris.com](https://divyanshu-tiwari.herokuapp.com/))
+
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/clinckzone/count.svg" />
+
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/clinckzone?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/divyanshu-tiwari33/)
